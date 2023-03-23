@@ -1,8 +1,8 @@
-
-#清除pod cache
+# react native ios
+## 清除pod cache
 pod cache clean --all
 
-#从安卓复制文件到Mac
+# 从安卓复制文件到Mac
 1.adb shell 
 2.cd sdcard/
 3.ls 目录，找到要copy的文件，复制路径
