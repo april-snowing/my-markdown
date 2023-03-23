@@ -1,6 +1,6 @@
 # react native ios
 1. **清除pod cache**
-   - pod cache clean --all
+   * pod cache clean --all
 
 # Mac
 1. **从安卓复制文件到Mac**
