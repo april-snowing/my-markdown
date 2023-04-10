@@ -11,6 +11,6 @@
    5. adb pull /sdcard/DCIM/ScreenRecorder/Screenrecorder-2023-03-23-10-01-06-812.mp4
 
 - **Safari 开启inspector to inspect webview**
-  Iphone : settings - Safari - Advanced - Web Inspector
-  Mac: Safari - Develop - your Phone - the webview page displayed in your app
+  - Iphone : settings - Safari - Advanced - Web Inspector
+  - Mac: Safari - Develop - your Phone - the webview page displayed in your app
   
