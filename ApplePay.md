@@ -1,7 +1,7 @@
 
 # Apple Pay Development book
 
-### 1. pre condition
+### 1. Pre condition
    
 - Set up access in [Apple Developer](https://developer.apple.com/account/resources/identifiers/list)
   refer to this [Set Up Documetion](https://developer.apple.com/documentation/passkit/apple_pay/setting_up_apple_pay) 
@@ -12,7 +12,7 @@
 
 - Test in [Sandbox](https://developer.apple.com/apple-pay/sandbox-testing/)
 > `Note: `             
-### 2. development
+### 2. Development
 - Refer to [Passkit Documentation](https://developer.apple.com/documentation/passkit/apple_pay)
 
 
