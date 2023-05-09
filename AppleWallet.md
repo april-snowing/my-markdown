@@ -12,6 +12,6 @@
 
     An array of App Store identifiers for apps associated with the pass.
 
-    Check in the App Store Connect(https://appstoreconnect.apple.com/apps/1565138866/appstore/info)
+    Check Apple ID in the App Store Connect(https://appstoreconnect.apple.com/apps/1565138866/appstore/info)
 
     ```
