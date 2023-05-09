@@ -7,9 +7,9 @@
   refer to this [Set Up Documetion](https://developer.apple.com/documentation/passkit/apple_pay/setting_up_apple_pay) 
 - Determine which processor which supoort apple pay will be used (such as Freedom pay)
 
-  > Apple pay - Just save card info(encypted token) into device and store in the apple server
-  > Payment Gateway - Handle card and send to processor(TBC)
-  > Processor - Use this token to communicated with issuer bank gateway to take deduction
+  * Apple pay - Just save card info(encypted token) into device and store in the apple server
+  * Payment Gateway - Handle card and send to processor(TBC)
+  * Processor - Use this token to communicated with issuer bank gateway to take deduction
 
 - Test in [Sandbox](https://developer.apple.com/apple-pay/sandbox-testing/)
 ```
