@@ -11,7 +11,10 @@
   processor - Use this token to communicated with issuer bank gateway to take Deduction
 
 - Test in [Sandbox](https://developer.apple.com/apple-pay/sandbox-testing/)
-> `Note: `             
+```
+  Note: appid need to be relatated with merchantId,and enable the capability of apple pay
+   
+```            
 ### 2. Development
 - Refer to [Passkit Documentation](https://developer.apple.com/documentation/passkit/apple_pay)
 
