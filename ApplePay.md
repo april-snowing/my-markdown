@@ -120,10 +120,10 @@ func invokeApplePay(orderInfo:NSDictionary) -> Void{
   }
   
   /*
-    Based on online odering api status to update the payment sheet status.
+    Based on server call procossor api status to update the payment sheet status.
   */
     private func updatePaymentStatus(message: String) -> Void {
-      if message == "COMPLETE_ORDER" {
+      if message == "Done" {
         self.completion?(PKPaymentAuthorizationResult(status: .success, errors: []))
       }else{
         self.completion?(PKPaymentAuthorizationResult(status: .failure, errors: []))
