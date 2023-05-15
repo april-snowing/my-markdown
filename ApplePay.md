@@ -171,4 +171,7 @@ open class RNEventEmitter : RCTEventEmitter{
   }
 };
 ```
- 
+### 2. Payment process
+- order history
+- split bill
+- refund
